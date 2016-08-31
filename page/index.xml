@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Edbert Voo</title>
+    <link>http://www.edbertvoo.com/page/</link>
+    <description>Recent content in Pages on Edbert Voo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Jan 2016 00:21:45 -0700</lastBuildDate>
+    <atom:link href="http://www.edbertvoo.com/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ask Mr Robot</title>
+      <link>http://www.edbertvoo.com/ask-mr-robot</link>
+      <pubDate>Sun, 10 Jan 2016 00:21:45 -0700</pubDate>
+      
+      <guid>http://www.edbertvoo.com/ask-mr-robot</guid>
+      <description>&lt;article&gt;
+&lt;div class=&#34;centerTitle&#34;&gt;
+&lt;img 
+data-interchange=&#34;[http://www.edbertvoo.com/img/misc/robotSmall.png, small],[http://www.edbertvoo.com/img/misc/robotMedium.png, medium],
+[http://www.edbertvoo.com/img/misc/robotLarge.png, large]&#34; alt=&#34;A robot&#34; /&gt;
+&lt;/div&gt;
+
+&lt;h2 class=&#34;centerTitle&#34;&gt;Ask Mr.Robot Generator&lt;/h2&gt;
+&lt;hr class=&#34;stylizedHr&#34;&gt;
+&lt;div class=&#34;PjVisit&#34;&gt;
+&lt;a href=&#34;https://www.dropbox.com/sh/zlcw9leaxj9g5ao/AACQ2fp2PXKh9ERY_NZPUQn8a?dl=0&#34;&gt;Download&lt;/a&gt;
+&lt;/div&gt;
+&lt;hr class=&#34;stylizedHr&#34;&gt;
+&lt;h3 class=&#34;centerTitle&#34;&gt;Project Created&lt;/h3&gt;
+&lt;p&gt;This project was made because of the tediousness of copy and pasting every stat over to the web page every time you
+wanted the website to recaculate the stats. This utility will export stat weightings from Sim Craft into a format that can be quickly imported into ask Mr.Robot.
+To use this save the Sim Craft html results and open them with this utility. After opening the html file export by pressing Ctrl-S or save from the menu. Open the saved text file and copy and paste it in to Ask.Mr Robot.&lt;/p&gt;
+&lt;p&gt;This project is no longer being maintained and is working as of SimCraft 6.1.2&lt;/p&gt;
+&lt;hr class=&#34;stylizedHr&#34;&gt;
+&lt;h4 class=&#34;centerTitle&#34;&gt;Technology Used&lt;/h4&gt;
+&lt;p&gt;Java&lt;/p&gt;
+&lt;/article&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Royal Barbell</title>
+      <link>http://www.edbertvoo.com/royal-barbell</link>
+      <pubDate>Sun, 10 Jan 2016 00:12:50 -0700</pubDate>
+      
+      <guid>http://www.edbertvoo.com/royal-barbell</guid>
+      <description>&lt;article&gt;
+    &lt;figure class=&#34;centerTitle&#34;&gt;
+        &lt;img 
+data-interchange=&#34;[http://www.edbertvoo.com/img/misc/royalBBSmall.png, small],[http://www.edbertvoo.com/img/misc/royalBBMedium.png, medium],
+[http://www.edbertvoo.com/img/misc/royalBBLarge.png, large]&#34; alt=&#34;Royal Barbell logo&#34; /&gt;
+    &lt;/figure&gt;
+
+    &lt;h2 class=&#34;centerTitle&#34;&gt;Royal Barbell&lt;/h2&gt;
+    &lt;hr class=&#34;stylizedHr&#34;&gt;
+    &lt;div class=&#34;PjVisit&#34;&gt;
+        &lt;a href=&#34;http://www.royalbarbell.ca&#34;&gt;Visit&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;hr class=&#34;stylizedHr&#34;&gt;
+    &lt;h3 class=&#34;centerTitle&#34;&gt;Website Created&lt;/h3&gt;
+    &lt;p&gt;This website was built with accessibility in mind for club members that weren&#39;t technical. Furthermore, Wordpress
+        would allow each member to have individual accounts with different posting permissions.&lt;/p&gt;
+    &lt;hr class=&#34;stylizedHr&#34;&gt;
+    &lt;h4 class=&#34;centerTitle&#34;&gt;Technology Used&lt;/h4&gt;
+    &lt;p&gt;Wordpress&lt;/p&gt;
+    &lt;hr class=&#34;stylizedHr&#34;&gt;
+    &lt;figure class=&#34;centerTitle&#34;&gt;
+        &lt;img 
+data-interchange=&#34;[http://www.edbertvoo.com/img/projects/royalbb/RoyalBBHomeSmall.png, small],[http://www.edbertvoo.com/img/projects/royalbb/RoyalBBHomeMedium.png, medium],
+[http://www.edbertvoo.com/img/projects/royalbb/RoyalBBHomeLarge.png, large]&#34; alt=&#34;Royal Barbell home page&#34; /&gt;
+    &lt;/figure&gt;
+
+&lt;/article&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Edbert Voo</title>
+      <link>http://www.edbertvoo.com/edbert-voo</link>
+      <pubDate>Sun, 10 Jan 2016 00:12:05 -0700</pubDate>
+      
+      <guid>http://www.edbertvoo.com/edbert-voo</guid>
+      <description>&lt;article&gt;
+    &lt;figure&gt;
+        &lt;img class=&#34;centerImage&#34;
+data-interchange=&#34;[http://www.edbertvoo.com/img/misc/evSmall.png, small],[http://www.edbertvoo.com/img/misc/evMedium.png, medium],
+[http://www.edbertvoo.com/img/misc/evLarge.png, large]&#34; alt=&#34;Edbert Voo logo&#34; /&gt;
+    &lt;/figure&gt;
+    &lt;h2 class=&#34;centerTitle&#34;&gt;Edbert Voo&lt;/h2&gt;
+    &lt;hr class=&#34;stylizedHr&#34;&gt;
+    &lt;div class=&#34;PjVisit&#34;&gt;
+        &lt;a href=&#34;http://www.edbertvoo.com/home/&#34;&gt;Visit&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;hr class=&#34;stylizedHr&#34;&gt;
+    &lt;h3 class=&#34;centerTitle&#34;&gt;Technology Update&lt;/h3&gt;
+    &lt;p&gt;The site used PHP in order to help with code reusability, but it was also wasteful as the server was just
+        regenerating the same code every time.
+        The solution was to use a static site generator which acts like a programming language, but generate pure html
+        at the end.
+        Hugo was selected from the list of candidates because it was a general purpose generator compared to the others
+        which were more oriented to blogs.&lt;/p&gt;
+    &lt;hr class=&#34;stylizedHr&#34;&gt;
+    &lt;h4 class=&#34;centerTitle&#34;&gt;Technology Used&lt;/h4&gt;
+    &lt;p&gt;Sass, Hugo, Foundation&lt;/p&gt;
+    &lt;hr class=&#34;stylizedHr&#34;&gt;
+    &lt;h5 class=&#34;centerTitle&#34;&gt;History&lt;/h5&gt;
+    &lt;h6 class=&#34;centerTitle&#34;&gt;Wordpress to PHP Assisted Static Website&lt;/h6&gt;
+    &lt;p&gt;The initial website was built with Wordpress which offered an easy way to quickly add content
+        but it lacked in the ability to customize. Futhermore, it was overly complicated and complex for a personal
+        website
+        and if something went wrong it would be a headache to fix. Built with Sass, PHP, Foundation&lt;/p&gt;
+    &lt;hr class=&#34;stylizedHr&#34;&gt;
+    &lt;figure class=&#34;centerTitle&#34;&gt;
+        &lt;figcaption&gt;Initial Wordpress site&lt;/figcaption&gt;
+        &lt;img 
+data-interchange=&#34;[http://www.edbertvoo.com/img/projects/edbertvoo/edbertVooHomeSmall.png, small],[http://www.edbertvoo.com/img/projects/edbertvoo/edbertVooHomeMedium.png, medium],
+[http://www.edbertvoo.com/img/projects/edbertvoo/edbertVooHomeLarge.png, large]&#34; alt=&#34;Edbert Voo old home page&#34; /&gt;
+    &lt;/figure&gt;
+
+&lt;/article&gt;
+            
+</description>
+    </item>
+    
+    <item>
+      <title>Game Related</title>
+      <link>http://www.edbertvoo.com/game-related</link>
+      <pubDate>Sat, 09 Jan 2016 21:37:49 -0700</pubDate>
+      
+      <guid>http://www.edbertvoo.com/game-related</guid>
+      <description>&lt;article&gt;
+&lt;figure class=&#34;centerTitle&#34;&gt;
+&lt;img 
+data-interchange=&#34;[http://www.edbertvoo.com/img/misc/gameSmall.png, small],[http://www.edbertvoo.com/img/misc/gameMedium.png, medium],
+[http://www.edbertvoo.com/img/misc/gameLarge.png, large]&#34; alt=&#34;Chess icon&#34; /&gt;
+&lt;/figure&gt;
+&lt;h2 class=&#34;centerTitle&#34;&gt;Game Related&lt;/h2&gt;
+&lt;hr class=&#34;stylizedHr&#34;&gt;
+&lt;!--Ask Mr robot stuff --&gt;
+&lt;div class=&#34;centerTitle&#34;&gt;
+&lt;img 
+data-interchange=&#34;[http://www.edbertvoo.com/img/misc/robotSmall.png, small],[http://www.edbertvoo.com/img/misc/robotMedium.png, medium],
+[http://www.edbertvoo.com/img/misc/robotLarge.png, large]&#34; alt=&#34;A robot&#34; /&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;br&gt;
+&lt;h3 class=&#34;PjVisit&#34;&gt;&lt;a href=&#34;http://www.edbertvoo.com/ask-mr-robot&#34;&gt;Ask Mr.Robot Generator&lt;/a&gt;&lt;/h3&gt;
+&lt;br&gt;
+&lt;p&gt;A utility for exporting Sim Craft stats of the Wind Walker Monk class from World of Warcraft to Ask Mr. Robot.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/article&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Websites</title>
+      <link>http://www.edbertvoo.com/websites</link>
+      <pubDate>Sat, 09 Jan 2016 15:29:01 -0700</pubDate>
+      
+      <guid>http://www.edbertvoo.com/websites</guid>
+      <description>&lt;article&gt;
+&lt;figure&gt;
+&lt;img class=&#34;centerImage&#34;
+data-interchange=&#34;[http://www.edbertvoo.com/img/misc/globeSmall.png, small],[http://www.edbertvoo.com/img/misc/globeMedium.png, medium],
+[http://www.edbertvoo.com/img/misc/globeLarge.png, large]&#34; alt=&#34;Blue globe&#34; /&gt;
+&lt;/figure&gt;
+&lt;h2 class=&#34;centerTitle&#34;&gt;Websites&lt;/h2&gt;
+&lt;hr class=&#34;stylizedHr&#34;&gt;
+&lt;!-- The Edbert Voo Site --&gt;
+
+&lt;div class=&#34;centerTitle&#34;&gt;
+&lt;img 
+data-interchange=&#34;[http://www.edbertvoo.com/img/misc/evSmall.png, small],[http://www.edbertvoo.com/img/misc/evMedium.png, medium],
+[http://www.edbertvoo.com/img/misc/evLarge.png, large]&#34; alt=&#34;A logo consisting of E and V&#34; /&gt;
+
+&lt;/div&gt;
+&lt;div&gt;
+&lt;br&gt;
+&lt;h3 class=&#34;PjVisit&#34;&gt;&lt;a href=&#34;http://www.edbertvoo.com/edbert-voo&#34;&gt;Edbert Voo&lt;/a&gt;&lt;/h3&gt;
+&lt;br&gt;
+&lt;p&gt;This is my personal website. It gives a small description of my skills and assets along with a page of all
+the projects that
+I am working on.&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;!-- Royal Barbell Site --&gt;
+&lt;hr class=&#34;stylizedHr&#34;&gt;
+&lt;div class=&#34;centerTitle&#34;&gt;
+&lt;img 
+data-interchange=&#34;[http://www.edbertvoo.com/img/misc/royalBBSmall.png, small],[http://www.edbertvoo.com/img/misc/royalBBMedium.png, medium],
+[http://www.edbertvoo.com/img/misc/royalBBLarge.png, large]&#34; alt=&#34;Royal Barbell logo&#34; /&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;br&gt;
+&lt;h3 class=&#34;PjVisit&#34;&gt;&lt;a href=&#34;http://www.edbertvoo.com/royal-barbell&#34;&gt;Royal Barbell&lt;/a&gt;&lt;/h3&gt;
+&lt;br&gt;
+&lt;p&gt;This is a club website that was created for Royal Barbell. It offers the ability to post their new
+and events on the website.&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;/article&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Project</title>
+      <link>http://www.edbertvoo.com/project</link>
+      <pubDate>Sat, 09 Jan 2016 15:21:30 -0700</pubDate>
+      
+      <guid>http://www.edbertvoo.com/project</guid>
+      <description>&lt;article&gt;
+&lt;figure&gt;
+&lt;img class=&#34;centerImage&#34;
+data-interchange=&#34;[http://www.edbertvoo.com/img/misc/projectSmall.png, small],[http://www.edbertvoo.com/img/misc/projectMedium.png, medium],
+[http://www.edbertvoo.com/img/misc/projectLarge.png, large]&#34; alt=&#34;Project folder&#34; /&gt;
+&lt;/figure&gt;
+&lt;h2 class=&#34;centerTitle&#34;&gt;Projects&lt;/h2&gt;
+&lt;hr class=&#34;stylizedHr&#34;&gt;
+&lt;p&gt;This page will contain various projects that I&#39;ve worked on.&lt;/p&gt;
+&lt;figure class=&#34;centerTitle&#34;&gt;
+&lt;img 
+data-interchange=&#34;[http://www.edbertvoo.com/img/misc/globeSmall.png, small],[http://www.edbertvoo.com/img/misc/globeMedium.png, medium],
+[http://www.edbertvoo.com/img/misc/globeLarge.png, large]&#34; alt=&#34;Blue globe&#34; /&gt;
+&lt;/figure&gt;
+&lt;h3 class=&#34;PjVisit&#34;&gt;&lt;a href=&#34;http://www.edbertvoo.com/websites&#34;&gt;Websites&lt;/a&gt; &lt;/h3&gt;
+&lt;br&gt;
+&lt;p&gt;Websites that I&#39;ve worked on and the various technologies that were used.&lt;/p&gt;
+&lt;hr class=&#34;stylizedHr&#34;&gt;
+&lt;figure class=&#34;centerTitle&#34;&gt;
+&lt;img 
+data-interchange=&#34;[http://www.edbertvoo.com/img/misc/gameSmall.png, small],[http://www.edbertvoo.com/img/misc/gameMedium.png, medium],
+[http://www.edbertvoo.com/img/misc/gameLarge.png, large]&#34; alt=&#34;Chess icon&#34; /&gt;
+&lt;/figure&gt;
+&lt;h3 class=&#34;PjVisit&#34;&gt;&lt;a href=&#34;http://www.edbertvoo.com/game-related&#34;&gt;Game Related&lt;/a&gt; &lt;/h3&gt;
+&lt;br&gt;
+&lt;p&gt;These projects are related to gaming such as a utility to calculate character stats.&lt;/p&gt;
+&lt;/article&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.edbertvoo.com/contact</link>
+      <pubDate>Sun, 03 Jan 2016 23:52:25 -0700</pubDate>
+      
+      <guid>http://www.edbertvoo.com/contact</guid>
+      <description>&lt;figure&gt;
+&lt;img class=&#34;centerImage&#34;
+data-interchange=&#34;[http://www.edbertvoo.com/img/misc/mailSmall.png, small],[http://www.edbertvoo.com/img/misc/mailMedium.png, medium],
+[http://www.edbertvoo.com/img/misc/mailLarge.png, large]&#34; alt=&#34;Mail icon&#34; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;h2 class=&#34;centerTitle&#34;&gt;Contact&lt;/h2&gt;
+&lt;hr class=&#34;stylizedHr&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;Work related/hire me: &lt;a href=&#34;mailto:edbertvoo@edbertvoo.com&#34;&gt;edbertvoo@edbertvoo.com&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;General/website related: &lt;a href=&#34;mailto:webmaster@edbertvoo.com&#34;&gt;webmaster@edbertvoo.com&lt;/a&gt; &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>http://www.edbertvoo.com/license</link>
+      <pubDate>Sun, 03 Jan 2016 20:44:15 -0700</pubDate>
+      
+      <guid>http://www.edbertvoo.com/license</guid>
+      <description>
+
+&lt;figure&gt;
+&lt;img class=&#34;centerImage&#34;
+data-interchange=&#34;[http://www.edbertvoo.com/img/misc/lockSmall.png, small],[http://www.edbertvoo.com/img/misc/lockMedium.png, medium],
+[http://www.edbertvoo.com/img/misc/lockLarge.png, large]&#34; alt=&#34;poop&#34; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;h2 class=&#34;centerTitle&#34;&gt;Licenses&lt;/h2&gt;
+&lt;hr class=&#34;stylizedHr&#34;&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;creative-common&#34;&gt;Creative Common&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;Creative Common 3.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.freepik.com/free-vector/blue-dotted-background_780928.htm&#34;&gt;Dotted Blue Background by Freepik&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.iconfinder.com/icons/532717/box_box_open_cd_rom_dvd_rom_package_software_icon#size=128&#34;&gt;Software Package by Vecteezy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.iconfinder.com/icons/111104/business_man_user_icon#size=128&#34;&gt;Business by WPZOOM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.iconfinder.com/icons/111044/closed_lock_secure_icon#size=64&#34;&gt;Lock by WPZOOM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.iconfinder.com/icons/463001/archieve_documentation_files_folder_history_library_project_icon#size=64&#34;&gt;Archieve by Laura Reen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.freepik.com/free-vector/404-error-sign_776825.htm&#34;&gt;404 Error by Freepik&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;free-for-commercial-use&#34;&gt;Free for Commercial Use&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.uniquedesign10.com&#34;&gt;Mail by UniqueDesign10&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.iconfinder.com/icons/190304/chess_game_icon#size=1042&#34;&gt;Chess by Vlad Marin&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;for-personal-use&#34;&gt;For personal use&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.iconfinder.com/icons/809630/android_robot_science_technology_icon#size=48&#34;&gt;Robot by Zlatko Nakdenovski&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

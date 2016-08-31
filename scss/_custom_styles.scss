@@ -1,0 +1,120 @@
+//Titles
+.centerTitle {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+//footer
+footer div {
+
+  background: url('../img/background/dottedBackground.jpg') center center no-repeat;
+  background-size: cover;
+  font-size: 0.8em;
+  color: white;
+}
+
+//image general
+.centerImage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+//Navigation Menu styling
+$navTransTime: 0.2s;
+
+.navLinks a {
+  transition: background-color $navTransTime ease-out;
+  color: black;
+
+  &:hover {
+    color: white;
+    background: #0085b2;
+  }
+
+}
+
+//Highlight the top of the navagation block for current page
+.navSel {
+  border-top: 5px solid #0085b2;
+  color: #1ea450;
+}
+
+//Stylize the text logo on the menu
+#logoListItem {
+
+  //background: linear-gradient(to top left, #0085B2, #19C5FF); /* Standard syntax */
+
+  a {
+    margin: 10px;
+    color: white;
+    padding: 5px;
+  }
+}
+
+//Social Menu Styling
+.SocialLinks {
+  img {
+    transition: 0.6s;
+    transform-style: preserve-3d;
+  }
+  &:hover {
+    img {
+      transform: rotateY(180deg);
+    }
+  }
+}
+
+//Profile styling
+
+#profileFigure {
+  text-align: center;
+  figcaption {
+    font-size: 2em;
+  }
+}
+
+//Horzontial line
+.stylizedHr {
+  width: 80%;
+}
+
+//Create special clickable link blocks
+@mixin visitBlocks($centerBlock: true) {
+  @if $centerBlock {
+    text-align: center;
+  }
+
+  a {
+    transition: background-color $navTransTime ease-out;
+    border: solid 2px black;
+    padding: 15px;
+    color: black;
+    &:hover {
+      background: #0085B2;
+      color: white;
+    }
+  }
+}
+
+//Edbert Voo project visit link
+.PjVisit {
+  @include visitBlocks;
+}
+
+.visitNoCenter {
+  @include visitBlocks(false);
+}
+
+//Style to to
+#toTop {
+  width: 100%;
+  background: linear-gradient(to bottom, white, grey); /* Standard syntax */
+  p {
+    color: black;
+  }
+}
+

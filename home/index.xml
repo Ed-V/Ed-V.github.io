@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Edbert Voo</title>
+    <link>http://www.edbertvoo.com/home/</link>
+    <description>Recent content in Homes on Edbert Voo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Jan 2016 21:02:32 -0700</lastBuildDate>
+    <atom:link href="http://www.edbertvoo.com/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Home</title>
+      <link>http://www.edbertvoo.com/home/</link>
+      <pubDate>Sun, 03 Jan 2016 21:02:32 -0700</pubDate>
+      
+      <guid>http://www.edbertvoo.com/home/</guid>
+      <description>&lt;article&gt;
+
+&lt;figure id=&#34;profileFigure&#34;&gt;
+&lt;img class=&#34;centerImage&#34;
+data-interchange=&#34;[http://www.edbertvoo.com/img/profile/profileSmall.jpg, small],[http://www.edbertvoo.com/img/profile/profileMedium.jpg, medium],
+[http://www.edbertvoo.com/img/profile/profileLarge.jpg, large]&#34; alt=&#34;Edbert&amp;#39;s profile picture&#34; /&gt;
+&lt;/figure&gt;
+
+&lt;h2 class=&#34;centerTitle&#34;&gt;About Me&lt;/h2&gt;
+&lt;hr class=&#34;stylizedHr&#34;&gt;
+&lt;p&gt;I am a second year undergradutate at Mount Royal University. I am currently majoring in Bachelor of Computer
+Information Systems giving me a great foundation for web/software development, and system analysis. Along with
+that I also have minor in business providing me with a foundation for working in the business world and it&#39;s
+environment.&lt;/p&gt;
+&lt;p&gt;I am passionate in the work I do and I am always looking to improve!&lt;/p&gt;
+&lt;div class=&#34;row&#34;&gt;
+&lt;div class=&#34;large-3 columns&#34;&gt;
+&lt;figure&gt;
+&lt;img class=&#34;centerImage&#34;
+data-interchange=&#34;[http://www.edbertvoo.com/img/skillicons/codingSmall.png, small],[http://www.edbertvoo.com/img/skillicons/codingMedium.png, medium],
+[http://www.edbertvoo.com/img/skillicons/codingLarge.png, large]&#34; alt=&#34;Coding icon&#34; /&gt;
+&lt;/figure&gt;
+&lt;p&gt;Java, JavaScript, CSS, HTML, PHP, and C++&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;large-3 columns&#34;&gt;
+&lt;figure&gt;
+&lt;img class=&#34;centerImage&#34;
+data-interchange=&#34;[http://www.edbertvoo.com/img/skillicons/analysisSmall.png, small],[http://www.edbertvoo.com/img/skillicons/analysisMedium.png, medium],
+[http://www.edbertvoo.com/img/skillicons/analysisLarge.png, large]&#34; alt=&#34;Analysis icon&#34; /&gt;
+&lt;/figure&gt;
+&lt;p&gt;Agile development, object oriented, and design analysis&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;large-3 columns&#34;&gt;
+&lt;figure&gt;
+&lt;img class=&#34;centerImage&#34;
+data-interchange=&#34;[http://www.edbertvoo.com/img/skillicons/businessSmall.png, small],[http://www.edbertvoo.com/img/skillicons/businessMedium.png, medium],
+[http://www.edbertvoo.com/img/skillicons/businessLarge.png, large]&#34; alt=&#34;Business icon&#34; /&gt;
+&lt;/figure&gt;
+&lt;p&gt;Foundation in management, human resources, accounting, and collaboration&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;large-3 columns&#34;&gt;
+&lt;figure&gt;
+
+&lt;img class=&#34;centerImage&#34;
+data-interchange=&#34;[http://www.edbertvoo.com/img/skillicons/softwareSmall.png, small],[http://www.edbertvoo.com/img/skillicons/softwareMedium.png, medium],
+[http://www.edbertvoo.com/img/skillicons/softwareLarge.png, large]&#34; alt=&#34;Software icon&#34; /&gt;
+&lt;/figure&gt;
+&lt;p&gt;Experienced in using various software such as Photoshop, Illustrator, Windows, Os X, Word, etc&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/article&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
