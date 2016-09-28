@@ -8,37 +8,34 @@
 
 /// Width of an off-canvas menu.
 /// @type Number
-$offcanvas-size: 250px !default;
+$offcanvas-size: 250px;
 
 /// Background color of an off-canvas menu.
 /// @type Color
-$offcanvas-background: $light-gray !default;
+$offcanvas-background: $light-gray;
 
 /// Z-index of an off-canvas menu.
 /// @type Number
-$offcanvas-zindex: -1 !default;
+$offcanvas-zindex: -1;
 
 /// Length of the animation on an off-canvas menu.
 /// @type Number
-$offcanvas-transition-length: 0.5s !default;
+$offcanvas-transition-length: 0.5s;
 
 /// Timing function of the animation on an off-canvas menu.
 /// @type Keyword
-$offcanvas-transition-timing: ease !default;
-
-/// If `true`, a revealed off-canvas will be fixed-position, and scroll with the screen.
-$offcanvas-fixed-reveal: true !default;
+$offcanvas-transition-timing: ease;
 
 /// Background color for the overlay that appears when an off-canvas menu is open.
 /// @type Color
-$offcanvas-exit-background: rgba($white, 0.25) !default;
+$offcanvas-exit-background: rgba($white, 0.25);
 
 /// CSS class used for the main content area. The off-canvas mixins use this to target the page body.
-$maincontent-class: 'off-canvas-content' !default;
+$maincontent-class: 'off-canvas-content';
 
 /// Box shadow to place under the main content area. This shadow overlaps the off-canvas menus.
 /// @type Shadow
-$maincontent-shadow: 0 0 10px rgba($black, 0.5) !default;
+$maincontent-shadow: 0 0 10px rgba($black, 0.5);
 
 /// Adds baseline styles for off-canvas. This CSS is required to make the other pieces work.
 @mixin off-canvas-basics {
@@ -53,7 +50,7 @@ $maincontent-shadow: 0 0 10px rgba($black, 0.5) !default;
     overflow-x: hidden;
     position: relative;
     backface-visibility: hidden;
-    -webkit-overflow-scrolling: auto;
+    -webkit-overflow-scrolling: touch;
   }
 
   .off-canvas-wrapper-inner {
@@ -64,16 +61,14 @@ $maincontent-shadow: 0 0 10px rgba($black, 0.5) !default;
   }
 
   // Container for page content
-  .off-canvas-content,
-  .#{$maincontent-class} {
+  .off-canvas-content {
     min-height: 100%;
     background: $body-background;
     transition: transform $offcanvas-transition-length $offcanvas-transition-timing;
     backface-visibility: hidden;
     z-index: 1;
-    padding-bottom: 0.1px; // Prevents margin collapsing, which would reveal the box shadow of the wrapper
 
-    @if has-value($maincontent-shadow) {
+    @if hasvalue($maincontent-shadow) {
       box-shadow: $maincontent-shadow;
     }
   }
@@ -89,6 +84,10 @@ $maincontent-shadow: 0 0 10px rgba($black, 0.5) !default;
     background: $offcanvas-exit-background;
     cursor: pointer;
     transition: background $offcanvas-transition-length $offcanvas-transition-timing;
+
+    .is-off-canvas-open & {
+      display: block;
+    }
   }
 }
 
@@ -100,7 +99,7 @@ $maincontent-shadow: 0 0 10px rgba($black, 0.5) !default;
   z-index: $offcanvas-zindex;
   max-height: 100%;
   overflow-y: auto;
-  transform: translateX(0);
+  transform: translateX(0px);
 }
 
 @mixin off-canvas-position(
@@ -138,11 +137,6 @@ $maincontent-shadow: 0 0 10px rgba($black, 0.5) !default;
   $position: left
 ) {
   #{$position}: 0;
-  z-index: auto;
-
-  @if $offcanvas-fixed-reveal {
-    position: fixed;
-  }
 
   & ~ .#{$maincontent-class} {
     margin-#{$position}: $offcanvas-size;
@@ -162,12 +156,11 @@ $maincontent-shadow: 0 0 10px rgba($black, 0.5) !default;
 
   // Reveal off-canvas menu on larger screens
   @each $name, $value in $breakpoint-classes {
-    @if $name != $-zf-zero-breakpoint {
+    @if $name != small {
       @include breakpoint($name) {
         .position-left.reveal-for-#{$name} {
           @include off-canvas-reveal(left);
         }
-
         .position-right.reveal-for-#{$name} {
           @include off-canvas-reveal(right);
         }

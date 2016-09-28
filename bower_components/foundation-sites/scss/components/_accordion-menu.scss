@@ -4,11 +4,7 @@
 
 /// Sets if accordion menus have the default arrow styles.
 /// @type Boolean
-$accordionmenu-arrows: true !default;
-
-/// Sets accordion menu arrow color if arrow is used.
-/// @type Color
-$accordionmenu-arrow-color: $primary-color !default;
+$accordionmenu-arrows: true;
 
 @mixin foundation-accordion-menu {
   @if $accordionmenu-arrows {
@@ -16,7 +12,7 @@ $accordionmenu-arrow-color: $primary-color !default;
       position: relative;
 
       &::after {
-        @include css-triangle(6px, $accordionmenu-arrow-color, down);
+        @include css-triangle(6px, $primary-color, down);
         position: absolute;
         top: 50%;
         margin-top: -4px;
@@ -24,7 +20,7 @@ $accordionmenu-arrow-color: $primary-color !default;
       }
     }
 
-    .is-accordion-submenu-parent[aria-expanded='true'] > a::after {
+    .is-accordion-submenu-parent[aria-expanded="true"] > a::after {
       transform-origin: 50% 50%;
       transform: scaleY(-1);
     }
