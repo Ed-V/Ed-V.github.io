@@ -25,14 +25,15 @@ data-interchange=&#34;[http://www.edbertvoo.com/img/misc/robotSmall.png, small],
 &lt;h2 class=&#34;centerTitle&#34;&gt;Ask Mr.Robot Generator&lt;/h2&gt;
 &lt;hr class=&#34;stylizedHr&#34;&gt;
 &lt;div class=&#34;PjVisit&#34;&gt;
-&lt;a href=&#34;https://www.dropbox.com/sh/zlcw9leaxj9g5ao/AACQ2fp2PXKh9ERY_NZPUQn8a?dl=0&#34;&gt;Download&lt;/a&gt;
+&lt;a href=&#34;http://www.edbertvoo.com/downloads/amrpj/SimCAMR_Source_Bin.zip&#34;&gt;Download&lt;/a&gt;
 &lt;/div&gt;
 &lt;hr class=&#34;stylizedHr&#34;&gt;
 &lt;h3 class=&#34;centerTitle&#34;&gt;Project Created&lt;/h3&gt;
 &lt;p&gt;This project was made because of the tediousness of copy and pasting every stat over to the web page every time you
 wanted the website to recaculate the stats. This utility will export stat weightings from Sim Craft into a format that can be quickly imported into ask Mr.Robot.
 To use this save the Sim Craft html results and open them with this utility. After opening the html file export by pressing Ctrl-S or save from the menu. Open the saved text file and copy and paste it in to Ask.Mr Robot.&lt;/p&gt;
-&lt;p&gt;This project is no longer being maintained and is working as of SimCraft 6.1.2&lt;/p&gt;
+&lt;strike&gt;&lt;p&gt;This project is no longer being maintained and is working as of SimCraft 6.1.2&lt;/p&gt;&lt;/strike&gt;
+&lt;p&gt;Ask Mr.Robot no longer supports importing of stats and this project is kept for archival purposes&lt;/p&gt;
 &lt;hr class=&#34;stylizedHr&#34;&gt;
 &lt;h4 class=&#34;centerTitle&#34;&gt;Technology Used&lt;/h4&gt;
 &lt;p&gt;Java&lt;/p&gt;
@@ -146,7 +147,7 @@ data-interchange=&#34;[http://www.edbertvoo.com/img/misc/robotSmall.png, small],
 &lt;/div&gt;
 &lt;div&gt;
 &lt;br&gt;
-&lt;h3 class=&#34;PjVisit&#34;&gt;&lt;a href=&#34;http://www.edbertvoo.com/ask-mr-robot&#34;&gt;Ask Mr.Robot Generator&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 class=&#34;PjVisit&#34;&gt;&lt;a href=&#34;http://www.edbertvoo.com/ask-mr-robot&#34;&gt;[Archived] Ask Mr.Robot Generator&lt;/a&gt;&lt;/h3&gt;
 &lt;br&gt;
 &lt;p&gt;A utility for exporting Sim Craft stats of the Wind Walker Monk class from World of Warcraft to Ask Mr. Robot.&lt;/p&gt;
 &lt;/div&gt;
