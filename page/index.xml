@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on Edbert Voo</title>
-    <link>http://www.edbertvoo.com/page/</link>
-    <description>Recent content in Pages on Edbert Voo</description>
+    <title>Page-rsses on Edbert Voo</title>
+    <link>http://www.edbertvoo.com/page/index.xml</link>
+    <description>Recent content in Page-rsses on Edbert Voo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 10 Jan 2016 00:21:45 -0700</lastBuildDate>
@@ -25,7 +25,7 @@ data-interchange=&#34;[http://www.edbertvoo.com/img/misc/robotSmall.png, small],
 &lt;h2 class=&#34;centerTitle&#34;&gt;Ask Mr.Robot Generator&lt;/h2&gt;
 &lt;hr class=&#34;stylizedHr&#34;&gt;
 &lt;div class=&#34;PjVisit&#34;&gt;
-&lt;a href=&#34;http://www.edbertvoo.com/downloads/AMRPJ/SimCAMR_Source_Bin.zip&#34;&gt;Download&lt;/a&gt;
+&lt;a href=&#34;http://www.edbertvoo.com/downloads/amrpj/SimCAMR_Source_Bin.zip&#34;&gt;Download&lt;/a&gt;
 &lt;/div&gt;
 &lt;hr class=&#34;stylizedHr&#34;&gt;
 &lt;h3 class=&#34;centerTitle&#34;&gt;Project Created&lt;/h3&gt;
@@ -60,13 +60,16 @@ data-interchange=&#34;[http://www.edbertvoo.com/img/misc/royalBBSmall.png, small
         &lt;a href=&#34;http://www.royalbarbell.ca&#34;&gt;Visit&lt;/a&gt;
     &lt;/div&gt;
     &lt;hr class=&#34;stylizedHr&#34;&gt;
-    &lt;h3 class=&#34;centerTitle&#34;&gt;Website Created&lt;/h3&gt;
-    &lt;p&gt;This website was built with accessibility in mind for club members that weren&#39;t technical. Furthermore, Wordpress
-        would allow each member to have individual accounts with different posting permissions.&lt;/p&gt;
+    &lt;h3 class=&#34;centerTitle&#34;&gt;Website Updated&lt;/h3&gt;
+    &lt;p&gt;This website was orginally built with WordPress but later updated to a simple static bootstrap webpage by a teammate. Currently maintained by me and him&lt;/p&gt;
     &lt;hr class=&#34;stylizedHr&#34;&gt;
     &lt;h4 class=&#34;centerTitle&#34;&gt;Technology Used&lt;/h4&gt;
-    &lt;p&gt;Wordpress&lt;/p&gt;
+    &lt;p&gt;Bootstrap, HTML, CSS, JavaScript&lt;/p&gt;
     &lt;hr class=&#34;stylizedHr&#34;&gt;
+    &lt;h4 class=&#34;centerTitle&#34;&gt;Archives&lt;/h4&gt;
+    &lt;ul class=&#34;centerText&#34; style=&#34;list-style-type:none&#34;&gt;
+    &lt;li&gt;&lt;a href=&#34;http://www.edbertvoo.com/archive/websites/royalBBpjjuly2016/&#34;&gt;July 2016&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
     &lt;figure class=&#34;centerTitle&#34;&gt;
         &lt;img 
 data-interchange=&#34;[http://www.edbertvoo.com/img/projects/royalbb/RoyalBBHomeSmall.png, small],[http://www.edbertvoo.com/img/projects/royalbb/RoyalBBHomeMedium.png, medium],
