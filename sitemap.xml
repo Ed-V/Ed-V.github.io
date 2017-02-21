@@ -2,63 +2,88 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.edbertvoo.com/</loc>
+    <loc>https://ed-v.github.io/archive/websites/royalBBpjjuly2016/</loc>
     <lastmod>2016-10-29T01:54:33-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.edbertvoo.com/archive/websites/royalBBpjjuly2016/</loc>
-    <lastmod>2016-10-29T01:54:33-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.edbertvoo.com/ask-mr-robot</loc>
+    <loc>https://ed-v.github.io/ask-mr-robot</loc>
     <lastmod>2016-01-10T00:21:45-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.edbertvoo.com/royal-barbell</loc>
+    <loc>https://ed-v.github.io/royal-barbell</loc>
     <lastmod>2016-01-10T00:12:50-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.edbertvoo.com/edbert-voo</loc>
+    <loc>https://ed-v.github.io/edbert-voo</loc>
     <lastmod>2016-01-10T00:12:05-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.edbertvoo.com/game-related</loc>
+    <loc>https://ed-v.github.io/game-related</loc>
     <lastmod>2016-01-09T21:37:49-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.edbertvoo.com/websites</loc>
+    <loc>https://ed-v.github.io/websites</loc>
     <lastmod>2016-01-09T15:29:01-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.edbertvoo.com/project</loc>
+    <loc>https://ed-v.github.io/project</loc>
     <lastmod>2016-01-09T15:21:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.edbertvoo.com/contact</loc>
+    <loc>https://ed-v.github.io/contact</loc>
     <lastmod>2016-01-03T23:52:25-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.edbertvoo.com/404/404/</loc>
+    <loc>https://ed-v.github.io/404/404/</loc>
     <lastmod>2016-01-03T23:48:53-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.edbertvoo.com/home/</loc>
+    <loc>https://ed-v.github.io/home/</loc>
     <lastmod>2016-01-03T21:02:32-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.edbertvoo.com/license</loc>
+    <loc>https://ed-v.github.io/license</loc>
     <lastmod>2016-01-03T20:44:15-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ed-v.github.io/404/</loc>
+    <lastmod>2016-01-03T23:48:53-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ed-v.github.io/archive/</loc>
+    <lastmod>2016-10-29T01:54:33-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ed-v.github.io/</loc>
+    <lastmod>2016-10-29T01:54:33-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ed-v.github.io/home/</loc>
+    <lastmod>2016-01-03T21:02:32-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ed-v.github.io/page/</loc>
+    <lastmod>2016-01-10T00:21:45-07:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

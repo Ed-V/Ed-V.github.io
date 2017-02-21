@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Page-rsses on Edbert Voo</title>
-    <link>http://www.edbertvoo.com/page/index.xml</link>
-    <description>Recent content in Page-rsses on Edbert Voo</description>
+    <title>Pages on Edbert Voo</title>
+    <link>https://ed-v.github.io/page/index.xml</link>
+    <description>Recent content in Pages on Edbert Voo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 10 Jan 2016 00:21:45 -0700</lastBuildDate>
-    <atom:link href="http://www.edbertvoo.com/page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ed-v.github.io/page/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ask Mr Robot</title>
-      <link>http://www.edbertvoo.com/ask-mr-robot</link>
+      <link>https://ed-v.github.io/ask-mr-robot</link>
       <pubDate>Sun, 10 Jan 2016 00:21:45 -0700</pubDate>
       
-      <guid>http://www.edbertvoo.com/ask-mr-robot</guid>
+      <guid>https://ed-v.github.io/ask-mr-robot</guid>
       <description>&lt;article&gt;
 &lt;div class=&#34;centerTitle&#34;&gt;
 &lt;img 
-data-interchange=&#34;[http://www.edbertvoo.com/img/misc/robotSmall.png, small],[http://www.edbertvoo.com/img/misc/robotMedium.png, medium],
-[http://www.edbertvoo.com/img/misc/robotLarge.png, large]&#34; alt=&#34;A robot&#34; /&gt;
+data-interchange=&#34;[https://ed-v.github.io/img/misc/robotSmall.png, small],[https://ed-v.github.io/img/misc/robotMedium.png, medium],
+[https://ed-v.github.io/img/misc/robotLarge.png, large]&#34; alt=&#34;A robot&#34; /&gt;
 &lt;/div&gt;
 
 &lt;h2 class=&#34;centerTitle&#34;&gt;Ask Mr.Robot Generator&lt;/h2&gt;
 &lt;hr class=&#34;stylizedHr&#34;&gt;
 &lt;div class=&#34;PjVisit&#34;&gt;
-&lt;a href=&#34;http://www.edbertvoo.com/downloads/amrpj/SimCAMR_Source_Bin.zip&#34;&gt;Download&lt;/a&gt;
+&lt;a href=&#34;https://ed-v.github.io/downloads/amrpj/SimCAMR_Source_Bin.zip&#34;&gt;Download&lt;/a&gt;
 &lt;/div&gt;
 &lt;hr class=&#34;stylizedHr&#34;&gt;
 &lt;h3 class=&#34;centerTitle&#34;&gt;Project Created&lt;/h3&gt;
@@ -43,15 +43,15 @@ To use this save the Sim Craft html results and open them with this utility. Aft
     
     <item>
       <title>Royal Barbell</title>
-      <link>http://www.edbertvoo.com/royal-barbell</link>
+      <link>https://ed-v.github.io/royal-barbell</link>
       <pubDate>Sun, 10 Jan 2016 00:12:50 -0700</pubDate>
       
-      <guid>http://www.edbertvoo.com/royal-barbell</guid>
+      <guid>https://ed-v.github.io/royal-barbell</guid>
       <description>&lt;article&gt;
     &lt;figure class=&#34;centerTitle&#34;&gt;
         &lt;img 
-data-interchange=&#34;[http://www.edbertvoo.com/img/misc/royalBBSmall.png, small],[http://www.edbertvoo.com/img/misc/royalBBMedium.png, medium],
-[http://www.edbertvoo.com/img/misc/royalBBLarge.png, large]&#34; alt=&#34;Royal Barbell logo&#34; /&gt;
+data-interchange=&#34;[https://ed-v.github.io/img/misc/royalBBSmall.png, small],[https://ed-v.github.io/img/misc/royalBBMedium.png, medium],
+[https://ed-v.github.io/img/misc/royalBBLarge.png, large]&#34; alt=&#34;Royal Barbell logo&#34; /&gt;
     &lt;/figure&gt;
 
     &lt;h2 class=&#34;centerTitle&#34;&gt;Royal Barbell&lt;/h2&gt;
@@ -68,12 +68,12 @@ data-interchange=&#34;[http://www.edbertvoo.com/img/misc/royalBBSmall.png, small
     &lt;hr class=&#34;stylizedHr&#34;&gt;
     &lt;h4 class=&#34;centerTitle&#34;&gt;Archives&lt;/h4&gt;
     &lt;ul class=&#34;centerText&#34; style=&#34;list-style-type:none&#34;&gt;
-    &lt;li&gt;&lt;a href=&#34;http://www.edbertvoo.com/archive/websites/royalBBpjjuly2016/&#34;&gt;July 2016&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;https://ed-v.github.io/archive/websites/royalBBpjjuly2016/&#34;&gt;July 2016&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
     &lt;figure class=&#34;centerTitle&#34;&gt;
         &lt;img 
-data-interchange=&#34;[http://www.edbertvoo.com/img/projects/royalbb/RoyalBBHomeSmall.png, small],[http://www.edbertvoo.com/img/projects/royalbb/RoyalBBHomeMedium.png, medium],
-[http://www.edbertvoo.com/img/projects/royalbb/RoyalBBHomeLarge.png, large]&#34; alt=&#34;Royal Barbell home page&#34; /&gt;
+data-interchange=&#34;[https://ed-v.github.io/img/projects/royalbb/RoyalBBHomeSmall.png, small],[https://ed-v.github.io/img/projects/royalbb/RoyalBBHomeMedium.png, medium],
+[https://ed-v.github.io/img/projects/royalbb/RoyalBBHomeLarge.png, large]&#34; alt=&#34;Royal Barbell home page&#34; /&gt;
     &lt;/figure&gt;
 
 &lt;/article&gt;
@@ -82,20 +82,20 @@ data-interchange=&#34;[http://www.edbertvoo.com/img/projects/royalbb/RoyalBBHome
     
     <item>
       <title>Edbert Voo</title>
-      <link>http://www.edbertvoo.com/edbert-voo</link>
+      <link>https://ed-v.github.io/edbert-voo</link>
       <pubDate>Sun, 10 Jan 2016 00:12:05 -0700</pubDate>
       
-      <guid>http://www.edbertvoo.com/edbert-voo</guid>
+      <guid>https://ed-v.github.io/edbert-voo</guid>
       <description>&lt;article&gt;
     &lt;figure&gt;
         &lt;img class=&#34;centerImage&#34;
-data-interchange=&#34;[http://www.edbertvoo.com/img/misc/evSmall.png, small],[http://www.edbertvoo.com/img/misc/evMedium.png, medium],
-[http://www.edbertvoo.com/img/misc/evLarge.png, large]&#34; alt=&#34;Edbert Voo logo&#34; /&gt;
+data-interchange=&#34;[https://ed-v.github.io/img/misc/evSmall.png, small],[https://ed-v.github.io/img/misc/evMedium.png, medium],
+[https://ed-v.github.io/img/misc/evLarge.png, large]&#34; alt=&#34;Edbert Voo logo&#34; /&gt;
     &lt;/figure&gt;
     &lt;h2 class=&#34;centerTitle&#34;&gt;Edbert Voo&lt;/h2&gt;
     &lt;hr class=&#34;stylizedHr&#34;&gt;
     &lt;div class=&#34;PjVisit&#34;&gt;
-        &lt;a href=&#34;http://www.edbertvoo.com/home/&#34;&gt;Visit&lt;/a&gt;
+        &lt;a href=&#34;https://ed-v.github.io/home/&#34;&gt;Visit&lt;/a&gt;
     &lt;/div&gt;
     &lt;hr class=&#34;stylizedHr&#34;&gt;
     &lt;h3 class=&#34;centerTitle&#34;&gt;Technology Update&lt;/h3&gt;
@@ -119,8 +119,8 @@ data-interchange=&#34;[http://www.edbertvoo.com/img/misc/evSmall.png, small],[ht
     &lt;figure class=&#34;centerTitle&#34;&gt;
         &lt;figcaption&gt;Initial Wordpress site&lt;/figcaption&gt;
         &lt;img 
-data-interchange=&#34;[http://www.edbertvoo.com/img/projects/edbertvoo/edbertVooHomeSmall.png, small],[http://www.edbertvoo.com/img/projects/edbertvoo/edbertVooHomeMedium.png, medium],
-[http://www.edbertvoo.com/img/projects/edbertvoo/edbertVooHomeLarge.png, large]&#34; alt=&#34;Edbert Voo old home page&#34; /&gt;
+data-interchange=&#34;[https://ed-v.github.io/img/projects/edbertvoo/edbertVooHomeSmall.png, small],[https://ed-v.github.io/img/projects/edbertvoo/edbertVooHomeMedium.png, medium],
+[https://ed-v.github.io/img/projects/edbertvoo/edbertVooHomeLarge.png, large]&#34; alt=&#34;Edbert Voo old home page&#34; /&gt;
     &lt;/figure&gt;
 
 &lt;/article&gt;
@@ -130,27 +130,27 @@ data-interchange=&#34;[http://www.edbertvoo.com/img/projects/edbertvoo/edbertVoo
     
     <item>
       <title>Game Related</title>
-      <link>http://www.edbertvoo.com/game-related</link>
+      <link>https://ed-v.github.io/game-related</link>
       <pubDate>Sat, 09 Jan 2016 21:37:49 -0700</pubDate>
       
-      <guid>http://www.edbertvoo.com/game-related</guid>
+      <guid>https://ed-v.github.io/game-related</guid>
       <description>&lt;article&gt;
 &lt;figure class=&#34;centerTitle&#34;&gt;
 &lt;img 
-data-interchange=&#34;[http://www.edbertvoo.com/img/misc/gameSmall.png, small],[http://www.edbertvoo.com/img/misc/gameMedium.png, medium],
-[http://www.edbertvoo.com/img/misc/gameLarge.png, large]&#34; alt=&#34;Chess icon&#34; /&gt;
+data-interchange=&#34;[https://ed-v.github.io/img/misc/gameSmall.png, small],[https://ed-v.github.io/img/misc/gameMedium.png, medium],
+[https://ed-v.github.io/img/misc/gameLarge.png, large]&#34; alt=&#34;Chess icon&#34; /&gt;
 &lt;/figure&gt;
 &lt;h2 class=&#34;centerTitle&#34;&gt;Game Related&lt;/h2&gt;
 &lt;hr class=&#34;stylizedHr&#34;&gt;
 &lt;!--Ask Mr robot stuff --&gt;
 &lt;div class=&#34;centerTitle&#34;&gt;
 &lt;img 
-data-interchange=&#34;[http://www.edbertvoo.com/img/misc/robotSmall.png, small],[http://www.edbertvoo.com/img/misc/robotMedium.png, medium],
-[http://www.edbertvoo.com/img/misc/robotLarge.png, large]&#34; alt=&#34;A robot&#34; /&gt;
+data-interchange=&#34;[https://ed-v.github.io/img/misc/robotSmall.png, small],[https://ed-v.github.io/img/misc/robotMedium.png, medium],
+[https://ed-v.github.io/img/misc/robotLarge.png, large]&#34; alt=&#34;A robot&#34; /&gt;
 &lt;/div&gt;
 &lt;div&gt;
 &lt;br&gt;
-&lt;h3 class=&#34;PjVisit&#34;&gt;&lt;a href=&#34;http://www.edbertvoo.com/ask-mr-robot&#34;&gt;[Archived] Ask Mr.Robot Generator&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 class=&#34;PjVisit&#34;&gt;&lt;a href=&#34;https://ed-v.github.io/ask-mr-robot&#34;&gt;[Archived] Ask Mr.Robot Generator&lt;/a&gt;&lt;/h3&gt;
 &lt;br&gt;
 &lt;p&gt;A utility for exporting Sim Craft stats of the Wind Walker Monk class from World of Warcraft to Ask Mr. Robot.&lt;/p&gt;
 &lt;/div&gt;
@@ -160,15 +160,15 @@ data-interchange=&#34;[http://www.edbertvoo.com/img/misc/robotSmall.png, small],
     
     <item>
       <title>Websites</title>
-      <link>http://www.edbertvoo.com/websites</link>
+      <link>https://ed-v.github.io/websites</link>
       <pubDate>Sat, 09 Jan 2016 15:29:01 -0700</pubDate>
       
-      <guid>http://www.edbertvoo.com/websites</guid>
+      <guid>https://ed-v.github.io/websites</guid>
       <description>&lt;article&gt;
 &lt;figure&gt;
 &lt;img class=&#34;centerImage&#34;
-data-interchange=&#34;[http://www.edbertvoo.com/img/misc/globeSmall.png, small],[http://www.edbertvoo.com/img/misc/globeMedium.png, medium],
-[http://www.edbertvoo.com/img/misc/globeLarge.png, large]&#34; alt=&#34;Blue globe&#34; /&gt;
+data-interchange=&#34;[https://ed-v.github.io/img/misc/globeSmall.png, small],[https://ed-v.github.io/img/misc/globeMedium.png, medium],
+[https://ed-v.github.io/img/misc/globeLarge.png, large]&#34; alt=&#34;Blue globe&#34; /&gt;
 &lt;/figure&gt;
 &lt;h2 class=&#34;centerTitle&#34;&gt;Websites&lt;/h2&gt;
 &lt;hr class=&#34;stylizedHr&#34;&gt;
@@ -176,13 +176,13 @@ data-interchange=&#34;[http://www.edbertvoo.com/img/misc/globeSmall.png, small],
 
 &lt;div class=&#34;centerTitle&#34;&gt;
 &lt;img 
-data-interchange=&#34;[http://www.edbertvoo.com/img/misc/evSmall.png, small],[http://www.edbertvoo.com/img/misc/evMedium.png, medium],
-[http://www.edbertvoo.com/img/misc/evLarge.png, large]&#34; alt=&#34;A logo consisting of E and V&#34; /&gt;
+data-interchange=&#34;[https://ed-v.github.io/img/misc/evSmall.png, small],[https://ed-v.github.io/img/misc/evMedium.png, medium],
+[https://ed-v.github.io/img/misc/evLarge.png, large]&#34; alt=&#34;A logo consisting of E and V&#34; /&gt;
 
 &lt;/div&gt;
 &lt;div&gt;
 &lt;br&gt;
-&lt;h3 class=&#34;PjVisit&#34;&gt;&lt;a href=&#34;http://www.edbertvoo.com/edbert-voo&#34;&gt;Edbert Voo&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 class=&#34;PjVisit&#34;&gt;&lt;a href=&#34;https://ed-v.github.io/edbert-voo&#34;&gt;Edbert Voo&lt;/a&gt;&lt;/h3&gt;
 &lt;br&gt;
 &lt;p&gt;This is my personal website. It gives a small description of my skills and assets along with a page of all
 the projects that
@@ -194,12 +194,12 @@ I am working on.&lt;/p&gt;
 &lt;hr class=&#34;stylizedHr&#34;&gt;
 &lt;div class=&#34;centerTitle&#34;&gt;
 &lt;img 
-data-interchange=&#34;[http://www.edbertvoo.com/img/misc/royalBBSmall.png, small],[http://www.edbertvoo.com/img/misc/royalBBMedium.png, medium],
-[http://www.edbertvoo.com/img/misc/royalBBLarge.png, large]&#34; alt=&#34;Royal Barbell logo&#34; /&gt;
+data-interchange=&#34;[https://ed-v.github.io/img/misc/royalBBSmall.png, small],[https://ed-v.github.io/img/misc/royalBBMedium.png, medium],
+[https://ed-v.github.io/img/misc/royalBBLarge.png, large]&#34; alt=&#34;Royal Barbell logo&#34; /&gt;
 &lt;/div&gt;
 &lt;div&gt;
 &lt;br&gt;
-&lt;h3 class=&#34;PjVisit&#34;&gt;&lt;a href=&#34;http://www.edbertvoo.com/royal-barbell&#34;&gt;Royal Barbell&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 class=&#34;PjVisit&#34;&gt;&lt;a href=&#34;https://ed-v.github.io/royal-barbell&#34;&gt;Royal Barbell&lt;/a&gt;&lt;/h3&gt;
 &lt;br&gt;
 &lt;p&gt;This is a club website that was created for Royal Barbell. It offers the ability to post their new
 and events on the website.&lt;/p&gt;
@@ -212,34 +212,34 @@ and events on the website.&lt;/p&gt;
     
     <item>
       <title>Project</title>
-      <link>http://www.edbertvoo.com/project</link>
+      <link>https://ed-v.github.io/project</link>
       <pubDate>Sat, 09 Jan 2016 15:21:30 -0700</pubDate>
       
-      <guid>http://www.edbertvoo.com/project</guid>
+      <guid>https://ed-v.github.io/project</guid>
       <description>&lt;article&gt;
 &lt;figure&gt;
 &lt;img class=&#34;centerImage&#34;
-data-interchange=&#34;[http://www.edbertvoo.com/img/misc/projectSmall.png, small],[http://www.edbertvoo.com/img/misc/projectMedium.png, medium],
-[http://www.edbertvoo.com/img/misc/projectLarge.png, large]&#34; alt=&#34;Project folder&#34; /&gt;
+data-interchange=&#34;[https://ed-v.github.io/img/misc/projectSmall.png, small],[https://ed-v.github.io/img/misc/projectMedium.png, medium],
+[https://ed-v.github.io/img/misc/projectLarge.png, large]&#34; alt=&#34;Project folder&#34; /&gt;
 &lt;/figure&gt;
 &lt;h2 class=&#34;centerTitle&#34;&gt;Projects&lt;/h2&gt;
 &lt;hr class=&#34;stylizedHr&#34;&gt;
 &lt;p&gt;This page will contain various projects that I&#39;ve worked on.&lt;/p&gt;
 &lt;figure class=&#34;centerTitle&#34;&gt;
 &lt;img 
-data-interchange=&#34;[http://www.edbertvoo.com/img/misc/globeSmall.png, small],[http://www.edbertvoo.com/img/misc/globeMedium.png, medium],
-[http://www.edbertvoo.com/img/misc/globeLarge.png, large]&#34; alt=&#34;Blue globe&#34; /&gt;
+data-interchange=&#34;[https://ed-v.github.io/img/misc/globeSmall.png, small],[https://ed-v.github.io/img/misc/globeMedium.png, medium],
+[https://ed-v.github.io/img/misc/globeLarge.png, large]&#34; alt=&#34;Blue globe&#34; /&gt;
 &lt;/figure&gt;
-&lt;h3 class=&#34;PjVisit&#34;&gt;&lt;a href=&#34;http://www.edbertvoo.com/websites&#34;&gt;Websites&lt;/a&gt; &lt;/h3&gt;
+&lt;h3 class=&#34;PjVisit&#34;&gt;&lt;a href=&#34;https://ed-v.github.io/websites&#34;&gt;Websites&lt;/a&gt; &lt;/h3&gt;
 &lt;br&gt;
 &lt;p&gt;Websites that I&#39;ve worked on and the various technologies that were used.&lt;/p&gt;
 &lt;hr class=&#34;stylizedHr&#34;&gt;
 &lt;figure class=&#34;centerTitle&#34;&gt;
 &lt;img 
-data-interchange=&#34;[http://www.edbertvoo.com/img/misc/gameSmall.png, small],[http://www.edbertvoo.com/img/misc/gameMedium.png, medium],
-[http://www.edbertvoo.com/img/misc/gameLarge.png, large]&#34; alt=&#34;Chess icon&#34; /&gt;
+data-interchange=&#34;[https://ed-v.github.io/img/misc/gameSmall.png, small],[https://ed-v.github.io/img/misc/gameMedium.png, medium],
+[https://ed-v.github.io/img/misc/gameLarge.png, large]&#34; alt=&#34;Chess icon&#34; /&gt;
 &lt;/figure&gt;
-&lt;h3 class=&#34;PjVisit&#34;&gt;&lt;a href=&#34;http://www.edbertvoo.com/game-related&#34;&gt;Game Related&lt;/a&gt; &lt;/h3&gt;
+&lt;h3 class=&#34;PjVisit&#34;&gt;&lt;a href=&#34;https://ed-v.github.io/game-related&#34;&gt;Game Related&lt;/a&gt; &lt;/h3&gt;
 &lt;br&gt;
 &lt;p&gt;These projects are related to gaming such as a utility to calculate character stats.&lt;/p&gt;
 &lt;/article&gt;
@@ -248,14 +248,14 @@ data-interchange=&#34;[http://www.edbertvoo.com/img/misc/gameSmall.png, small],[
     
     <item>
       <title>Contact</title>
-      <link>http://www.edbertvoo.com/contact</link>
+      <link>https://ed-v.github.io/contact</link>
       <pubDate>Sun, 03 Jan 2016 23:52:25 -0700</pubDate>
       
-      <guid>http://www.edbertvoo.com/contact</guid>
+      <guid>https://ed-v.github.io/contact</guid>
       <description>&lt;figure&gt;
 &lt;img class=&#34;centerImage&#34;
-data-interchange=&#34;[http://www.edbertvoo.com/img/misc/mailSmall.png, small],[http://www.edbertvoo.com/img/misc/mailMedium.png, medium],
-[http://www.edbertvoo.com/img/misc/mailLarge.png, large]&#34; alt=&#34;Mail icon&#34; /&gt;
+data-interchange=&#34;[https://ed-v.github.io/img/misc/mailSmall.png, small],[https://ed-v.github.io/img/misc/mailMedium.png, medium],
+[https://ed-v.github.io/img/misc/mailLarge.png, large]&#34; alt=&#34;Mail icon&#34; /&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;&lt;h2 class=&#34;centerTitle&#34;&gt;Contact&lt;/h2&gt;
@@ -268,16 +268,16 @@ data-interchange=&#34;[http://www.edbertvoo.com/img/misc/mailSmall.png, small],[
     
     <item>
       <title>License</title>
-      <link>http://www.edbertvoo.com/license</link>
+      <link>https://ed-v.github.io/license</link>
       <pubDate>Sun, 03 Jan 2016 20:44:15 -0700</pubDate>
       
-      <guid>http://www.edbertvoo.com/license</guid>
+      <guid>https://ed-v.github.io/license</guid>
       <description>
 
 &lt;figure&gt;
 &lt;img class=&#34;centerImage&#34;
-data-interchange=&#34;[http://www.edbertvoo.com/img/misc/lockSmall.png, small],[http://www.edbertvoo.com/img/misc/lockMedium.png, medium],
-[http://www.edbertvoo.com/img/misc/lockLarge.png, large]&#34; alt=&#34;poop&#34; /&gt;
+data-interchange=&#34;[https://ed-v.github.io/img/misc/lockSmall.png, small],[https://ed-v.github.io/img/misc/lockMedium.png, medium],
+[https://ed-v.github.io/img/misc/lockLarge.png, large]&#34; alt=&#34;poop&#34; /&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;&lt;h2 class=&#34;centerTitle&#34;&gt;Licenses&lt;/h2&gt;

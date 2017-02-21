@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Archive-rsses on Edbert Voo</title>
-    <link>http://www.edbertvoo.com/archive/index.xml</link>
-    <description>Recent content in Archive-rsses on Edbert Voo</description>
+    <title>Archives on Edbert Voo</title>
+    <link>https://ed-v.github.io/archive/index.xml</link>
+    <description>Recent content in Archives on Edbert Voo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 29 Oct 2016 01:54:33 -0600</lastBuildDate>
-    <atom:link href="http://www.edbertvoo.com/archive/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ed-v.github.io/archive/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Royal Barbell July 2016</title>
-      <link>http://www.edbertvoo.com/archive/websites/royalBBpjjuly2016/</link>
+      <link>https://ed-v.github.io/archive/websites/royalBBpjjuly2016/</link>
       <pubDate>Sat, 29 Oct 2016 01:54:33 -0600</pubDate>
       
-      <guid>http://www.edbertvoo.com/archive/websites/royalBBpjjuly2016/</guid>
+      <guid>https://ed-v.github.io/archive/websites/royalBBpjjuly2016/</guid>
       <description>&lt;article&gt;
     &lt;figure class=&#34;centerTitle&#34;&gt;
         &lt;img 
-data-interchange=&#34;[http://www.edbertvoo.com/img/misc/royalBBSmall.png, small],[http://www.edbertvoo.com/img/misc/royalBBMedium.png, medium],
-[http://www.edbertvoo.com/img/misc/royalBBLarge.png, large]&#34; alt=&#34;Royal Barbell logo&#34; /&gt;
+data-interchange=&#34;[https://ed-v.github.io/img/misc/royalBBSmall.png, small],[https://ed-v.github.io/img/misc/royalBBMedium.png, medium],
+[https://ed-v.github.io/img/misc/royalBBLarge.png, large]&#34; alt=&#34;Royal Barbell logo&#34; /&gt;
     &lt;/figure&gt;
 
     &lt;h2 class=&#34;centerTitle&#34;&gt;Royal Barbell[July 2016 Archive]&lt;/h2&gt;
@@ -37,8 +37,8 @@ data-interchange=&#34;[http://www.edbertvoo.com/img/misc/royalBBSmall.png, small
     &lt;hr class=&#34;stylizedHr&#34;&gt;
     &lt;figure class=&#34;centerTitle&#34;&gt;
         &lt;img 
-data-interchange=&#34;[http://www.edbertvoo.com/img/projects/royalbb/RoyalBBHomeJuly2016Small.png, small],[http://www.edbertvoo.com/img/projects/royalbb/RoyalBBHomeJuly2016Medium.png, medium],
-[http://www.edbertvoo.com/img/projects/royalbb/RoyalBBHomeJuly2016Large.png, large]&#34; alt=&#34;Royal Barbell home page&#34; /&gt;
+data-interchange=&#34;[https://ed-v.github.io/img/projects/royalbb/RoyalBBHomeJuly2016Small.png, small],[https://ed-v.github.io/img/projects/royalbb/RoyalBBHomeJuly2016Medium.png, medium],
+[https://ed-v.github.io/img/projects/royalbb/RoyalBBHomeJuly2016Large.png, large]&#34; alt=&#34;Royal Barbell home page&#34; /&gt;
     &lt;/figure&gt;
 
 &lt;/article&gt;
